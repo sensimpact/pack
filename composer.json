@@ -3,7 +3,6 @@
   "description": "First composer project",
   "type": "library",
   "minimum-stability": "stable",
-  "version": "1.0.0",
   "license": "proprietary",
   "autoload": {
     "psr-4": {
