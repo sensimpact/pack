@@ -5,7 +5,7 @@
 
 ## Установка
 
-1. Если нет composer, установите его (источник [эта статья][1])<br>
+1. Если нет composer, установите его. Источник: [эта статья](https://makedev.org/articles/composer.html) <br>
 **на Linux и Mac OS X**  выполните следующие 2 команды:
 ```shell
 $ curl -sS https://getcomposer.org/installer | php
@@ -33,7 +33,4 @@ Version::show();
 ```
 
 ## Пользуйтесь на здоровье!
-&copy; &Sigma;&epsilon;&nu;&sigmaf; &Iota;&mu;&pi;&alpha;&kappa;&tau; в [Telegram][2]
-
-[1]: (https://makedev.org/articles/composer.html)
-[2]: (https://t.me/sens_impact)
+&copy; &Sigma;&epsilon;&nu;&sigmaf; &Iota;&mu;&pi;&alpha;&kappa;&tau; в [Telegram](https://t.me/sens_impact)
