@@ -32,5 +32,7 @@ use Sens\Impact\Version;
 Version::show();
 ```
 
+[Документация](./docs/DOCS.md)
+
 ## Пользуйтесь на здоровье!
 &copy; &Sigma;&epsilon;&nu;&sigmaf; &Iota;&mu;&pi;&alpha;&kappa;&tau; в [Telegram](https://t.me/sens_impact)
