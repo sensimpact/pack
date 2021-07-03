@@ -9,7 +9,7 @@ class Pack
 
   public static function check()
   {
-    echo "It's work!";
+    echo "It's work! After update :)";
   }
 
 }
