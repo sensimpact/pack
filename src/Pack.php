@@ -7,7 +7,7 @@ namespace Sens\Impact;
 class Pack
 {
 
-  const VERSION = '1.0.2';
+  const VERSION = '1.0.0';
 
   public static function check()
   {
