@@ -1,5 +1,5 @@
 # Документация
-Писать ее всем лень, за то читать любят все!
+Писать ее всем лень, зато читать любят все!
 
 ![Documentation](https://d33wubrfki0l68.cloudfront.net/8f5837fc1ea5842376df1e8f9689a2e50ba11581/d63cb/assets/images/uploads/uxdocumentation.png)
 
