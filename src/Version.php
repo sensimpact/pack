@@ -5,7 +5,7 @@ namespace Sens\Impact;
 class Version
 {
 
-  const VERSION = '1.1.0';
+  const VERSION = '1.1.1';
 
   /**
    * Выводит номер текущей версии библиотеки
