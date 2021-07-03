@@ -2,6 +2,7 @@
     "name": "sens/impact",
     "description": "First composer project",
     "type": "library",
+    "minimum-stability": "stable",
     "license": "proprietary",
     "autoload": {
         "psr-4": {
