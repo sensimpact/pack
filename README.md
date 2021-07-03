@@ -1,7 +1,7 @@
 # Sens Impact
 Библиотека проектного кочевника
 
-![Sens Impact Logo](https://content.sportslogos.net/logos/1/21/full/oh7bwuxz0kvn1sfmznlguf8fl.gif)
+![Project nomad library](https://cdnb.artstation.com/p/assets/images/images/000/053/303/large/nomad.jpg)
 
 ## Установка
 
