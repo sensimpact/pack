@@ -1,8 +1,6 @@
 <?
 
-
 namespace Sens\Impact;
-
 
 class Version
 {
