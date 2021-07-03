@@ -1,19 +1,20 @@
 {
-    "name": "sens/impact",
-    "description": "First composer project",
-    "type": "library",
-    "minimum-stability": "stable",
-    "license": "proprietary",
-    "autoload": {
-        "psr-4": {
-            "Sens\\Impact\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Sens Impact",
-            "email": "sens.impact@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "sens/impact",
+  "description": "First composer project",
+  "type": "library",
+  "minimum-stability": "stable",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "Sens\\Impact\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Sens Impact",
+      "email": "sens.impact@gmail.com"
+    }
+  ],
+  "require": {}
 }
