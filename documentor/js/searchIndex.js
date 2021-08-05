@@ -1,0 +1,49 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\Sens\\Impact\\Utils\\Strings",
+            "name": "Strings",
+            "summary": "Utils\u0020String.",
+            "url": "classes/Sens-Impact-Utils-Strings.html"
+        },                {
+            "fqsen": "\\Sens\\Impact\\Utils\\Strings\u003A\u003Anumber\u0028\u0029",
+            "name": "number",
+            "summary": "\u0412\u043E\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0020\u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E\u0435\u0020\u0441\u043A\u043B\u043E\u043D\u0435\u043D\u0438\u0435\u0020\u043F\u043E\u0020\u0447\u0438\u0441\u043B\u0443",
+            "url": "classes/Sens-Impact-Utils-Strings.html#method_number"
+        },                {
+            "fqsen": "\\Sens\\Impact\\Version",
+            "name": "Version",
+            "summary": "Version.",
+            "url": "classes/Sens-Impact-Version.html"
+        },                {
+            "fqsen": "\\Sens\\Impact\\Version\u003A\u003Ashow\u0028\u0029",
+            "name": "show",
+            "summary": "\u0412\u044B\u0432\u043E\u0434\u0438\u0442\u0020\u043D\u043E\u043C\u0435\u0440\u0020\u0442\u0435\u043A\u0443\u0449\u0435\u0439\u0020\u0432\u0435\u0440\u0441\u0438\u0438\u0020\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438",
+            "url": "classes/Sens-Impact-Version.html#method_show"
+        },                {
+            "fqsen": "\\Sens\\Impact\\Version\u003A\u003AVERSION",
+            "name": "VERSION",
+            "summary": "",
+            "url": "classes/Sens-Impact-Version.html#constant_VERSION"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        },                {
+            "fqsen": "\\Sens\\Impact\\Utils",
+            "name": "Utils",
+            "summary": "",
+            "url": "namespaces/sens-impact-utils.html"
+        },                {
+            "fqsen": "\\Sens\\Impact",
+            "name": "Impact",
+            "summary": "",
+            "url": "namespaces/sens-impact.html"
+        },                {
+            "fqsen": "\\Sens",
+            "name": "Sens",
+            "summary": "",
+            "url": "namespaces/sens.html"
+        }            ]
+);
