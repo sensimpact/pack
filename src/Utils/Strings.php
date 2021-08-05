@@ -10,6 +10,7 @@ namespace Sens\Impact\Utils;
  * @link    https://github.com/sensimpact
  * @link    https://t.me/sens_impact
  * @license Use it if you like it
+ * @package Utils
  */
 class Strings
 {
